@@ -9,7 +9,7 @@ I don't have anything interesting in my profile, but you can check out my social
 [![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/svenons/)
 
 
-## Other Common Github Profile Sections
+## what's happening?
 👩‍💻 I'm currently working on the Semester Project (https://github.com/Waste-Warrior)
 
 🧠 I'm currently learning C#.
