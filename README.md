@@ -11,9 +11,9 @@ I don't have anything interesting in my profile, but you can check out my social
 
 ## Useful tools that I host
 
-    [PicoShare](https://files.svenons.xyz/g/7jxKFZEEDh5kr3w6)
-    [![hastebin](https://img.shields.io/badge/hastebin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://paste.svenons.xyz/)
-    [![speedtest](https://img.shields.io/badge/speedtest-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://speed.svenons.xyz/)
+[PicoShare](https://files.svenons.xyz/g/7jxKFZEEDh5kr3w6)
+[![hastebin](https://img.shields.io/badge/hastebin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://paste.svenons.xyz/)
+[![speedtest](https://img.shields.io/badge/speedtest-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://speed.svenons.xyz/)
 
 ## what's happening?
 👩‍💻 I'm currently working on the Semester Project (https://github.com/Waste-Warrior)
