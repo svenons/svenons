@@ -18,6 +18,6 @@ I don't have anything interesting in my profile, but you can check out my social
 ## what's happening?
 👩‍💻 I'm currently working on the Semester Project (https://github.com/Waste-Warrior)
 
-🧠 If you are from Riga State 3rd Gymnasium, struggling with Programming, reach out ;) (don't just copy my public homework, at least rewrite it ;d)
+🧠 If you are from Riga State 3rd Gymnasium, struggling with Programming, reach out ;)
 
 📫 Reach me by my socials or discord @svenons
