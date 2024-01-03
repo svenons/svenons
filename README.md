@@ -13,7 +13,6 @@ I don't have anything interesting in my profile, but you can check out my social
 
 [PicoShare](https://files.svenons.xyz/g/7jxKFZEEDh5kr3w6)
 [HasteBin](https://paste.svenons.xyz/)
-[SpeedTest](https://speed.svenons.xyz/)
 
 ## what's happening?
 👩‍💻 I'm currently working on the Semester Project (https://github.com/Waste-Warrior)
