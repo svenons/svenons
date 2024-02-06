@@ -15,7 +15,7 @@ I don't have anything interesting in my profile, but you can check out my social
 [HasteBin](https://paste.svenons.xyz/)
 
 ## what's happening?
-👩‍💻 I'm currently working on the Semester Project (https://github.com/Waste-Warrior)
+👩‍💻 I'm currently working on the second semester project and learning DART.
 
 🧠 If you are from Riga State 3rd Gymnasium, struggling with Programming, reach out ;)
 
