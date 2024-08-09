@@ -1,6 +1,6 @@
 # Hi, I'm Svens! 👋
 
-I am a first-year  Software Engineering student at SDU Sønderborg.
+I am a second-year  Software Engineering student at SDU Sønderborg.
 
 I don't have anything interesting in my profile, but you can check out my socials and connect!
 ## 🔗 Links
