@@ -15,8 +15,10 @@ I don't have anything interesting in my profile, but you can check out my social
 [HasteBin](https://paste.svenons.xyz/)
 
 ## what's happening?
-👩‍💻 I'm currently working on the second semester project and learning DART.
+👩‍💻 I'm currently working on a flutter app with a few classmates, learning dart.
 
 🧠 If you are from Riga State 3rd Gymnasium, struggling with Programming, reach out ;)
 
 📫 Reach me by my socials or discord @svenons
+
+👋[2nd Semester Project](https://github.com/2nd-Semester-Project/heat-production-optimization)
