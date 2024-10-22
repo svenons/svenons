@@ -3,8 +3,10 @@
 I am a 3rd Semester Software Engineering student at [SDU](https://sdu.dk/en/) Sønderborg.
 
 ## About Me
-I am passionate about software development and always eager to learn new technologies. I enjoy working on projects that challenge me and help me grow as a developer. In my free time, I like to explore new programming languages and frameworks.
+I am passionate about almost everything IT and always eager to learn new technologies. 
+
 I have a bowed instrument degree in playing the cello and I can whistle better than you can sign.
+
 I used to do theater, so in case you wan't to start a club here in Sønderborg, write to me.
 
 ## Useful tools that I host
