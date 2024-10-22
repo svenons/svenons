@@ -5,7 +5,7 @@ I am a 3rd Semester Software Engineering student at [SDU](https://sdu.dk/en/) SÃ
 ## About Me
 I am passionate about almost everything IT and always eager to learn new technologies. 
 
-I have a bowed instrument degree in playing the cello and I can whistle better than you can sign.
+I have a bowed instrument degree in playing the cello and I can whistle better than I can sign.
 
 I used to do theater, so in case you wan't to start a club here in SÃ¸nderborg, write to me.
 
