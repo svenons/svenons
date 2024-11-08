@@ -14,7 +14,8 @@ I used to do theater, so in case you wan't to start a club here in Sønderborg, 
 [HasteBin](https://paste.svenons.xyz/)
 
 ## What's happening?
-👩‍💻 I'm currently working on the 3rd Semesyer Project and Web Technologies course project.
+👩‍💻 I'm currently working on the 3rd Semester Project and Web Technologies course project.
+[IntelliVision](https://github.com/Intellivisionn)
 
 🧠 If you are from Riga State 3rd Gymnasium, struggling with Programming, reach out ;)
 
