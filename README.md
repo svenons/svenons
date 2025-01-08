@@ -15,8 +15,6 @@ I used to do theater, so if you want to start a club here in Sønderborg, feel f
 
 ## What's happening?
 
-🧠 If you are from Riga State 3rd Gymnasium, struggling with Programming, reach out ;)
-
 👋[2nd Semester Project](https://github.com/2nd-Semester-Project/heat-production-optimization)
 
 👋[3rd Semester Group Projects - IntelliVision](https://github.com/Intellivisionn)
