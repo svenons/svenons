@@ -3,23 +3,23 @@
 I am a 3rd Semester Software Engineering student at [SDU](https://sdu.dk/en/) Sønderborg.
 
 ## About Me
-I am passionate about almost everything IT and always eager to learn new technologies. 
+I am passionate about almost everything in IT and always eager to learn new technologies.
 
-I have a bowed instrument degree in playing the cello and I can whistle better than I can sign.
+I have a degree in playing the cello, a bowed instrument, and I can whistle better than I can sing.
 
-I used to do theater, so in case you wan't to start a club here in Sønderborg, write to me.
+I used to do theater, so if you want to start a club here in Sønderborg, feel free to write to me.
 
 ## Useful tools that I host
 [PicoShare](https://files.svenons.xyz/g/7jxKFZEEDh5kr3w6)
 [HasteBin](https://paste.svenons.xyz/)
 
 ## What's happening?
-👩‍💻 I'm currently working on the 3rd Semester Project and Web Technologies course project.
-[IntelliVision](https://github.com/Intellivisionn)
 
 🧠 If you are from Riga State 3rd Gymnasium, struggling with Programming, reach out ;)
 
 👋[2nd Semester Project](https://github.com/2nd-Semester-Project/heat-production-optimization)
+
+👋[3rd Semester Group Projects - IntelliVision](https://github.com/Intellivisionn)
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -47,6 +47,7 @@ I used to do theater, so in case you wan't to start a club here in Sønderborg, 
 
 #### IDE
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code)&nbsp;
+![Arduino IDE](https://img.shields.io/badge/-Arduino%20IDE-333333?style=flat&logo=arduino)&nbsp;
 
 ## Connect with me
 [![mywebsite](https://img.shields.io/badge/website-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://svenons.xyz/)
