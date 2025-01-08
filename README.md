@@ -1,4 +1,4 @@
-# Hi, I'm Svens! 👋
+# Hi, I'm Sven! 👋
 
 I am a 3rd Semester Software Engineering student at [SDU](https://sdu.dk/en/) Sønderborg.
 
