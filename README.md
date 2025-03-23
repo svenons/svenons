@@ -17,7 +17,7 @@ I used to do theater, so if you want to start a club here in Sønderborg, feel f
 
 👋[2nd Semester Project](https://github.com/2nd-Semester-Project/heat-production-optimization)
 
-👋[3rd Semester Group Projects - IntelliVision](https://github.com/Intellivisionn)
+👋[3rd & 4th Semester Group Projects - IntelliVision](https://github.com/Intellivisionn)
 
 ## 🛠 &nbsp;Tech Stack
 
