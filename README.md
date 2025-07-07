@@ -10,8 +10,8 @@ I have a bowed instrument music degree in playing cello, and I can whistle bette
 I’m introverted, not arrogant. I may not start the conversation, but I try to be approachable and am always happy to connect.
 
 ## Useful tools that I host
-[PicoShare](https://files.svenons.xyz/g/7jxKFZEEDh5kr3w6)
-[HasteBin](https://paste.svenons.xyz/)
+[PrivateBin](https://paste.svenons.xyz/)
+[Overleaf](https://overleaf.svenons.xyz/) - ask for a registration if need for academic work.
 
 ## What's happening?
 
