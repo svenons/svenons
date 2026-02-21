@@ -1,6 +1,6 @@
 # Hi, I'm Sven! 👋
 
-I'm a 5th Semester Software Engineering student at [SDU](https://sdu.dk/en/) Sønderborg, focusing on developing practical software solutions and tackling real-world challenges.
+I'm a 6th Semester Software Engineering student at [SDU](https://sdu.dk/en/) Sønderborg, focusing on developing practical software solutions and tackling real-world challenges.
 
 ## About Me
 I'm passionate about almost everything in IT and always eager to learn new technologies.
