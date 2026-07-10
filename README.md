@@ -1,9 +1,9 @@
 # Hi, I'm Sven! 👋
 
-I'm a 6th Semester Software Engineering student at [SDU](https://sdu.dk/en/) Sønderborg, focusing on developing practical software solutions and tackling real-world challenges.
+I'm a Msc Semester Software Engineering student at [SDU](https://sdu.dk/en/) Sønderborg.
 
 ## About Me
-I'm passionate about almost everything in IT and always eager to learn new technologies.
+I'm passionate about all things IT, and I'm always eager to connect over topics like cybersecurity, right to repair and stupid legislation.
 
 I have a bowed instrument music degree in playing cello, and I can whistle better than I can sing.
 
